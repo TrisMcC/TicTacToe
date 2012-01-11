@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to Tic Tac Toe!</string>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="current_player">Current Player</string>
+
+</resources>
